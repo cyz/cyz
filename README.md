@@ -8,7 +8,7 @@ Mom of cats, aquarius and passionate about people & tech. I'm developer since 20
 [![Linkedin: cynthiazanoni](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cynthiazanoni/)](https://www.linkedin.com/in/cynthiazanoni/)
 [![Youtube: womakerscode](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/womakerscode)](http://youtube.com/womakerscode)
 
-## Techs & Tools 🐱‍💻 
+### Techs & Tools 🐱‍💻 
 
 These are some of the technologies and tools that I work with:
 
@@ -34,3 +34,8 @@ These are some of the technologies and tools that I work with:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-black?style=flat-square&logo=Jekyll)
 ![Ruby](https://img.shields.io/badge/-Rails-DD0031?style=flat-square&logo=Ruby)
+
+### Few moments about Women in Tech! 👩‍💻⚡
+- [CoLabs | Ep02 - Especial D&I | Mulheres na Tecnologia: Capacitando e gerando oportunidades](https://www.youtube.com/watch?v=zE0YmM8FJGo&list=PLQq6yswS_I7Y5Q0JT89d-K3PjJZsUjhBX&index=2&ab_channel=LocalizaCarreiras)
+- [A gaúcha que tem aberto caminho para milhares de mulheres na tecnologia ](https://gauchazh.clicrbs.com.br/donna/noticia/2021/10/quem-e-cynthia-zanoni-a-gaucha-que-tem-aberto-caminho-para-milhares-de-mulheres-na-tecnologia-ckurhdssl00cj019mklwpb55s.html)
+- [Women at Microsoft: Projetos para mulheres na tecnologia](https://www.linkedin.com/feed/update/urn:li:activity:6635622092710653952/)
