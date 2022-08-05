@@ -6,7 +6,7 @@ Mom of cats, aquarius and passionate about people & tech. I'm developer since 20
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cynthiazanoni?style=social)](https://twitter.com/cynthiazanoni)
 [![Linkedin: cynthiazanoni](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cynthiazanoni/)](https://www.linkedin.com/in/cynthiazanoni/)
-[![Youtube: womakerscode](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/womakerscode)](http://youtube.com/womakerscode)
+[![Youtube: womakerscode](https://img.shields.io/youtube/channel/subscribers/UCC_4Qpl1-Kysd-9hRTsoX8w?label=WoMakersCode%20-%20YouTube&style=social)](http://youtube.com/womakerscode)
 
 ### Techs & Tools 🐱‍💻 
 
